@@ -1,1 +1,8 @@
 Ultilizando o Github pela primeira vez...
+
+| Comando                 | Descrição                                                  |
+| ----------------------- | ---------------------------------------------------------- |
+| `sudo apt update`       | Atualiza a lista de pacotes disponíveis.                   |
+| `sudo apt upgrade`      | Atualiza os pacotes instalados para versões mais recentes. |
+| `sudo apt full-upgrade` | Atualiza pacotes e remove os obsoletos se necessário.      |
+| `sudo apt dist-upgrade` | Igual ao `full-upgrade` (forma mais antiga).               |
